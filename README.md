@@ -6,7 +6,9 @@ I am a Full-Stack JavaScript Web and Mobile Developer, with a diverse and rich p
 #### 🛠 Skills
 - **Soft Skills**: Adaptability and Resilience, Teamwork and Leadership, Effective Communication, Problem Solving and Critical Thinking, Continuous Learning and Curiosity, Excellence in Online Work.
 - **Technical Skills**: 
-            <i class="devicon-html5-plain colored"></i>
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="20" />
+          
           , CSS3/SASS, JavaScript, TypeScript, React/Redux, Node.js, SQL, Git/GitHub.
 
 #### 📚 Education
