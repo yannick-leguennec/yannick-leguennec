@@ -37,11 +37,11 @@ I am a Full-Stack JavaScript Web and Mobile Developer, with a diverse and rich p
 
 
 #### 📚 Education
-I recently completed an **intensive 6-month course at O'clock School**, specializing in Full-Stack JavaScript with a focus on React/Redux. This unique training led me to code daily in various languages and tackle multiple challenges, such as coding games, building blogs, task management applications, and even live chat applications. [Check out the program here](https://oclock.io/formations/developpeur-web-fullstack-javascript).
+- I recently completed an **intensive 6-month course at O'clock School**, specializing in Full-Stack JavaScript with a focus on React/Redux. This unique training led me to code daily in various languages and tackle multiple challenges, such as coding games, building blogs, task management applications, and even live chat applications. [Check out the program here](https://oclock.io/formations/developpeur-web-fullstack-javascript).
 
-Additionally, I have completed over 20 certifications in diverse fields such as development, cybersecurity, network and systems, and design, showcasing my commitment to continuous learning and skill development. [Check out the list here](https://github.com/yannick-leguennec/yannick-leguennec/blob/main/list_certificates.md)
+- Additionally, I have completed over 20 certifications in diverse fields such as development, cybersecurity, network and systems, and design, showcasing my commitment to continuous learning and skill development. [Check out the list here](https://github.com/yannick-leguennec/yannick-leguennec/blob/main/list_certificates.md)
 
-**Coming Up in 2024**: I am planning to enhance my expertise in blockchain development with a part-time course at [Alyra](https://www.alyra.fr/formations/decouvrir-la-formation-developpeur-blockchain-alyra).
+- **Coming Up in 2024**: I am planning to enhance my expertise in blockchain development with a part-time course at [Alyra](https://www.alyra.fr/formations/decouvrir-la-formation-developpeur-blockchain-alyra).
 
 #### 🚀 Professional Goals
 I am seeking a dynamic position that will allow me to fully integrate everything I have learned during my course at O'clock. My ambition is to become the most professional and reliable web and mobile developer. In the long term, I aim to specialize in blockchain development.
