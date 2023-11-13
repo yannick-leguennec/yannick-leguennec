@@ -33,4 +33,5 @@ I am seeking a dynamic position that will allow me to fully integrate everything
 #### 💡 Passions and Interests
 Outside of work, I am passionate about entrepreneurship, economics, politics, technology, and investment. These interests provide me with a comprehensive and in-depth view of the current and future challenges in the tech sector.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannick-leguennec&layout=compact&count_private=true&include_all_commits=true)
 
