@@ -30,7 +30,7 @@ I am a Full-Stack JavaScript Web and Mobile Developer, with a diverse and rich p
 #### 📚 Education
 I recently completed an **intensive 6-month course at O'clock School**, specializing in Full-Stack JavaScript with a focus on React/Redux. This unique training led me to code daily in various languages and tackle multiple challenges, such as coding games, building blogs, task management applications, and even live chat applications. I have also completed over 30 certifications in development, cybersecurity, network and systems, and design through online courses. [Check out the program here](https://oclock.io/formations/developpeur-web-fullstack-javascript).
 
-Additionally, I have completed over 30 certifications in diverse fields such as development, cybersecurity, network and systems, and design, showcasing my commitment to continuous learning and skill development [Check out the list here](https://github.com/yannick-leguennec/yannick-leguennec/blob/main/list_certificates.md)
+Additionally, I have completed over 20 certifications in diverse fields such as development, cybersecurity, network and systems, and design, showcasing my commitment to continuous learning and skill development [Check out the list here](https://github.com/yannick-leguennec/yannick-leguennec/blob/main/list_certificates.md)
 
 
 #### 🚀 Professional Goals
