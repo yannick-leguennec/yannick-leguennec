@@ -5,16 +5,24 @@ I am a Full-Stack JavaScript Web and Mobile Developer, with a diverse and rich p
 
 #### 🛠 Skills
 - **Soft Skills**: Adaptability and Resilience, Teamwork and Leadership, Effective Communication, Problem Solving and Critical Thinking, Continuous Learning and Curiosity, Excellence in Online Work.
-- **Technical Skills**: - **Technical Skills:**
-
+- **Technical Skills**:
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
   ![CSS3/SASS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-  ![React/Redux](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
   ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
-  ![Git/GitHub](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop)
+
+
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+
 
 
 #### 📚 Education
