@@ -46,7 +46,7 @@ Additionally, I have completed over 20 certifications in diverse fields such as 
 I am seeking a dynamic position that will allow me to fully integrate everything I have learned during my course at O'clock. My ambition is to become the most professional and reliable web and mobile developer. In the long term, I aim to specialize in blockchain development.
 
 ### 💼 Working Preferences
-- I am particularly interested in remote positions that allow me to work flexibly from any location.
+I am particularly interested in remote positions that allow me to work flexibly from any location.
 
 #### 💡 Passions and Interests
 Outside of work, I am passionate about entrepreneurship, economics, politics, technology, and investment. These interests provide me with a comprehensive and in-depth view of the current and future challenges in the tech sector.
