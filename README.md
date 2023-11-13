@@ -41,6 +41,4 @@ Outside of work, I am passionate about entrepreneurship, economics, politics, te
 
  #### 🗨️ For professional inquiries, feel free to open an issue on this repository.
 
- 🗨️ For professional inquiries, feel free to open an issue on this repository.
-
 [comment]: <> (🗨️ For professional inquiries, feel free to open an issue on this repository.)
