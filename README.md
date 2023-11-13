@@ -19,6 +19,7 @@ I am a Full-Stack JavaScript Web and Mobile Developer, with a diverse and rich p
 
 ## 🛠 Skills
  **Soft Skills**: Adaptability and Resilience, Teamwork and Leadership, Effective Communication, Problem Solving and Critical Thinking, Continuous Learning and Curiosity, Excellence in Online Work.
+ 
  **Technical Skills**:
   
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
