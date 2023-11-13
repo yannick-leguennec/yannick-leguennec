@@ -1,3 +1,6 @@
+![Bannière](https://github.com/yannick-leguennec/yannick-leguennec/blob/main/banner_github.jpg)
+
+
 ### 👋 Hello and Welcome to My GitHub Profile!
 
 #### 🌟 About Me
