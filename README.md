@@ -6,6 +6,15 @@
 #### 🌟 About Me
 I am a Full-Stack JavaScript Web and Mobile Developer, with a diverse and rich professional background. Before diving into the exciting world of web and mobile development, I excelled as a **Restaurant Manager from 2005 to 2022**. This experience has endowed me with masterful project management and operational efficiency skills in dynamic environments akin to agile web development settings. I honed key skills in problem-solving, effective communication, and team leadership, all crucial in the tech sector.
 
+### 🌍 Citizenship and Residency
+- Dual Citizen: France and Canada
+- Permanent Residency: Mexico
+
+### 🌐 Languages
+- Fluent in: English, French
+- Conversational: Spanish
+
+
 #### 🛠 Skills
 - **Soft Skills**: Adaptability and Resilience, Teamwork and Leadership, Effective Communication, Problem Solving and Critical Thinking, Continuous Learning and Curiosity, Excellence in Online Work.
 - **Technical Skills**:
@@ -35,6 +44,9 @@ Additionally, I have completed over 20 certifications in diverse fields such as 
 
 #### 🚀 Professional Goals
 I am seeking a dynamic position that will allow me to fully integrate everything I have learned during my course at O'clock. My ambition is to become the most professional and reliable web and mobile developer. In the long term, I aim to specialize in blockchain development.
+
+### 💼 Working Preferences
+- I am particularly interested in remote positions that allow me to work flexibly from any location, leveraging my dual citizenship in France and Canada, and my permanent residency in Mexico.
 
 #### 💡 Passions and Interests
 Outside of work, I am passionate about entrepreneurship, economics, politics, technology, and investment. These interests provide me with a comprehensive and in-depth view of the current and future challenges in the tech sector.
