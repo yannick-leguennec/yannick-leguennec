@@ -15,6 +15,7 @@
 - Simplify your CSS with SASS
 - Create responsive website with Bootstrap 5
 - Get Started with REST API
+- Adopt REST APIs for your web projects
 - Get started with React
 - Create a complete React app
 - Organize your app with Redux logic
