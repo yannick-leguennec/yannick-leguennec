@@ -37,6 +37,7 @@
 
 ## Udemy
 - ChatGPT Complete Guide: LearnMidjourney, ChatGPT 4 & More
+- Next.js : Complete Course
 
 ## ANSSI (National Agency for Information Systems Security)
 - SecNum Academy Certificate
