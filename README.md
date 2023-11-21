@@ -24,6 +24,7 @@ I am a Full-Stack JavaScript Web and Mobile Developer, with a diverse and rich p
   
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
   ![CSS3/SASS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+  ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
