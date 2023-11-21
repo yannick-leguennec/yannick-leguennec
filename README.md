@@ -24,18 +24,19 @@ I am a Full-Stack JavaScript Web and Mobile Developer, with a diverse and rich p
   
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
   ![CSS3/SASS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
   ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop)
 
 
