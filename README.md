@@ -38,6 +38,9 @@ I am a Full-Stack JavaScript Web and Mobile Developer, with a diverse and rich p
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop)
+  ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=flat-square&logo=openai&logoColor=white)
+
+
 
 
 #### 📚 Education
