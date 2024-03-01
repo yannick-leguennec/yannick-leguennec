@@ -4,7 +4,7 @@
 #### 👋 Hello and Welcome to My GitHub Profile!
 
 #### 🌟 About Me
-I am a Full-Stack JavaScript Web and Mobile Developer, with a diverse and rich professional background. Before diving into the exciting world of web and mobile development, I excelled as a **Restaurant Manager from 2005 to 2022**. This experience has endowed me with masterful project management and operational efficiency skills in dynamic environments akin to agile web development settings. I honed key skills in problem-solving, effective communication, and team leadership, all crucial in the tech sector.
+I am a Full-Stack JavaScript Web and Mobile Developer specialized in react, with a diverse and rich professional background. Before diving into the exciting world of web and mobile development, I excelled as a **Restaurant Manager from 2005 to 2022**. This experience has endowed me with masterful project management and operational efficiency skills in dynamic environments akin to agile web development settings. I honed key skills in problem-solving, effective communication, and team leadership, all crucial in the tech sector.
 
 
 #### 🌍 Citizenship and Residency
