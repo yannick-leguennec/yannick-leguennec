@@ -45,14 +45,16 @@ I am a Full-Stack JavaScript Web and Mobile Developer specialized in react, with
 
 
 #### 📚 Education
-I recently completed an **intensive 6-month course at O'clock School**, specializing in Full-Stack JavaScript with a focus on React/Redux. This unique training led me to code daily in various languages and tackle multiple challenges, such as coding games, building blogs, task management applications, and even live chat applications. [Check out the program here](https://oclock.io/formations/developpeur-web-fullstack-javascript).
+My educational journey kicked off at HEC Montreal Business School, where I topped my class in Entrepreneurship and Business Creation. This achievement laid a solid foundation for my later adventures in tech at O'clock School [Check out the program here](https://oclock.io/formations/developpeur-web-fullstack-javascript)., where I dove deep into Full-Stack JavaScript, honing my skills daily through a variety of challenges, such as coding games, building blogs, task management applications, and even live chat applications. This blend of business acumen and technical prowess uniquely positions me to tackle the multifaceted challenges of the tech world. Explore my coding education.
 
 Additionally, I have completed over 20 certifications in diverse fields such as development, cybersecurity, network and systems, and design, showcasing my commitment to continuous learning and skill development. [Check out the list here](https://github.com/yannick-leguennec/yannick-leguennec/blob/main/list_certificates.md).
 
-**Coming Up in 2024**: I am planning to enhance my expertise in blockchain development with a part-time course at [Alyra](https://www.alyra.fr/formations/decouvrir-la-formation-developpeur-blockchain-alyra).
+🌟 Discover My Work: Dive into my world of web development and explore the projects that showcase my journey as a Full Stack JavaScript Web and Web Mobile Developer. Learn more about my expertise, the services I offer, and my passion for crafting engaging digital experiences at [Wise Duck Dev](https://www.wiseduckdev.vercel.app). Your next favorite project could be just a click away!
+
+🎯 Latest Projects - Family Flow: Unveiling Family Flow, my recent endeavor aimed at simplifying family organization and tasks. This project is a testament to my ability to blend innovative design with functional technology, utilizing React and other cutting-edge tools to enhance daily family life. Get an inside look at Family Flow [here](https://github.com/family-flow-app/FamilyFlow-FrontEnd) and experience its features firsthand through a live [demo](https://familyflow.up.railway.app/).
 
 #### 🚀 Professional Goals
-I am seeking a dynamic position that will allow me to fully integrate everything I have learned during my course at O'clock. My ambition is to become the most professional and reliable web and mobile developer. In the long term, I aim to specialize in blockchain development.
+As I look for my next adventure, I'm not just seeking any job. I'm on the hunt for a place where I can bring all I've learned to the table, push the envelope, and really shine as a web and mobile developer. I'm all about creativity, innovation, and cooking up cutting-edge solutions that not only challenge me but also sharpen my skills further. Let's make something amazing together, where I can be a tech wizard and keep growing!
 
 #### 💼 Working Preferences
 I am particularly interested in remote positions that allow me to work flexibly from any location, but am also open to unique opportunities on-site.
