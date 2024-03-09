@@ -49,7 +49,7 @@ My educational journey kicked off at HEC Montreal Business School, where I toppe
 
 Additionally, I have completed over 20 certifications in diverse fields such as development, cybersecurity, network and systems, and design, showcasing my commitment to continuous learning and skill development. [Check out the list here](https://github.com/yannick-leguennec/yannick-leguennec/blob/main/list_certificates.md).
 
-🌟 Discover My Work: Dive into my world of web development and explore the projects that showcase my journey as a Full Stack JavaScript Web and Web Mobile Developer. Learn more about my expertise, the services I offer, and my passion for crafting engaging digital experiences at [Wise Duck Dev](https://www.wiseduckdev.vercel.app). Your next favorite project could be just a click away!
+🌟 Discover My Work: Dive into my world of web development and explore the projects that showcase my journey as a Full Stack JavaScript Web and Web Mobile Developer. Learn more about my expertise, the services I offer, and my passion for crafting engaging digital experiences at [Wise Duck Dev](https://wiseduckdev.vercel.app). Your next favorite project could be just a click away!
 
 🎯 Latest Projects - Family Flow: Unveiling Family Flow, my recent endeavor aimed at simplifying family organization and tasks. This project is a testament to my ability to blend innovative design with functional technology, utilizing React and other cutting-edge tools to enhance daily family life. Get an inside look at Family Flow [here](https://github.com/family-flow-app/FamilyFlow-FrontEnd) and experience its features firsthand through a live [demo](https://familyflow.up.railway.app/).
 
