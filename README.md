@@ -31,6 +31,7 @@ I am a Full-Stack JavaScript Web and Mobile Developer specialized in react, with
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
   ![Next JS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-black?style=flat-square&logo=wordpress&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
   ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
