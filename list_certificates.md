@@ -14,11 +14,12 @@
 - Become an expert in Git and GitHub
 - Simplify your CSS with SASS
 - Create responsive website with Bootstrap 5
-- Get Started with REST API
-- Adopt REST APIs for your web projects
 - Get started with React
 - Create a complete React app
 - Organize your app with Redux logic
+- Get Started with REST API
+- Adopt REST APIs for your web projects
+
 
 ### Blockchain
 - Understand Bitcoin and the Blockchain
@@ -29,6 +30,7 @@
 
 ### Cyber Security
 - Secure your data with cryptography
+- Secure your applications
 
 ### Design
 - UX Design: Discover the fundamentals
@@ -38,6 +40,9 @@
 ## Udemy
 - ChatGPT Complete Guide: LearnMidjourney, ChatGPT 4 & More
 - Next.js : Complete Course
+
+## SLN ACADEMY
+- Automated ChatGPT
 
 ## ANSSI (National Agency for Information Systems Security)
 - SecNum Academy Certificate
