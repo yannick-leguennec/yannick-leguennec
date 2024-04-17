@@ -38,6 +38,9 @@
 - Manage a design project with multiples methods of UX mapping
 - Make the UX approach your own in practice
 
+### Marketing & Communication
+- Increase your traffic thanks to natural referencing (SEO)
+
 ## Udemy
 - ChatGPT Complete Guide: LearnMidjourney, ChatGPT 4 & More
 - Next.js : Complete Course
