@@ -20,6 +20,7 @@
 - Get Started with REST API
 - Adopt REST APIs for your web projects
 - Create your first Web Site with WordPress 6
+- Optimize your site’s referencing (SEO) by improving its technical performance
 
 
 ### Blockchain
