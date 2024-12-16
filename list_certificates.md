@@ -76,4 +76,3 @@
 - Make Intermediate Certificate
 - Make Advanced #1 - Data stores and data structures
 - Make Advanced #2 - API calls with HTTP modules
-- 
