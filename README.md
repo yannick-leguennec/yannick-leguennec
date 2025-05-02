@@ -28,6 +28,9 @@ I am a Full-Stack JavaScript Web and Mobile Developer specialized in react, with
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=blue)
+  ![YAML](https://img.shields.io/badge/-YAML-black?style=flat-square&logo=yaml&logoColor=red)
+  ![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=shell&logoColor=bleu)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
   ![Next JS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
@@ -38,9 +41,11 @@ I am a Full-Stack JavaScript Web and Mobile Developer specialized in react, with
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop)
-  ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=flat-square&logo=openai&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=blue)
+  ![OpenAI](https://img.shields.io/badge/-ChatGPT-black?style=flat-square&logo=openai&logoColor=white)
+  ![Perplexity](https://img.shields.io/badge/-Perplexity-black?style=flat-square&logo=perplexity&logoColor=bleu)
+  ![Xai](https://img.shields.io/badge/-Xai-black?style=flat-square&logo=Xai&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop&logoColor=white)
 
 
 
@@ -55,6 +60,7 @@ Additionally, I have completed over 30 certifications in diverse fields such as 
 🎯 Latest Projects:
  - **Family Flow**: Unveiling Family Flow, my recent endeavor aimed at simplifying family organization and tasks. This project is a testament to my ability to blend innovative design with functional technology, utilizing React and other cutting-edge tools to enhance daily family life. Get an inside look at Family Flow [here](https://github.com/family-flow-app/FamilyFlow-FrontEnd) and experience its features firsthand through a live [demo](https://familyflow.up.railway.app/).
  - **The Wise Duck Dev GPTs Platform**: I'm thrilled to introduce my latest project, the Wise Duck Dev GPTs platform—a pioneering development toolset designed to redefine traditional development boundaries. This platform hosts over 700 custom GPTs tailored for various tech stacks including web, mobile, AI, Blockchain and Video Games. It is crafted to enhance developer creativity, streamline workflows, and significantly boost productivity. Developers can access a vast range of GPTs, from frontend refinement to complex backend integrations, all aimed at enhancing your development prowess. Experience the future of development by visiting the Wise Duck Dev GPTs platform [here](https://wiseduckdevgpts.com) and discover how it can transform your projects.
+ - The Babylon Archives Project: Introducing my AI-driven news automation platform for The Babylon Archives Project—an end-to-end pipeline that scrapes, classifies and enriches breaking news on X, generates long-form Substack articles using AI, securely manages all API keys with HashiCorp Vault on Railway, and runs fully automated publish workflows via GitHub Actions. Check out the code on GitHub right [here](https://github.com/yannick-leguennec/babylon_archives_bot).
 
 #### 🚀 Professional Goals
 As I look for my next adventure, I'm not just seeking any job. I'm on the hunt for a place where I can bring all I've learned to the table, push the envelope, and really shine as a web and mobile developer. I'm all about creativity, innovation, and cooking up cutting-edge solutions that not only challenge me but also sharpen my skills further. Let's make something amazing together, where I can be a tech wizard and keep growing!
