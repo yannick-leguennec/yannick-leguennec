@@ -12,7 +12,7 @@ In 2023, I transitioned into tech full-time, driven by a passion for building us
 #### 🛠 Skills
 
 
- **Soft Skills**: Adaptability and Resilience, Teamwork and Leadership, Effective Communication, Problem Solving and Critical Thinking, Continuous Learning and Curiosity, Excellence in Remote Collaboration.
+ **Soft Skills**: Creativity and Innovation, Adaptability and Resilience, Teamwork and Leadership, Effective Communication, Problem Solving and Critical Thinking, Continuous Learning and Curiosity, Excellence in Remote Collaboration.
  
  
  **Technical Skills**:
