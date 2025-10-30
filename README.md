@@ -1,4 +1,4 @@
-![Bannière](https://github.com/yannick-leguennec/yannick-leguennec/blob/main/banner_github.jpg)
+![Bannière](https://github.com/yannick-leguennec/yannick-leguennec/blob/main/wise_duck_dev_portfolio_version_2_main_picture_Facebook.webp)
 
 
 #### 👋 Hello everyone and welcome to my GitHub profile!
